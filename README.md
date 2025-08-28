@@ -1,4 +1,4 @@
-■ Detailed Documentation of the Approach
+  Detailed Documentation of the Approach
 1. Introduction
 This project was developed as part of the CrowdWisdomTrading Internship Assessment.
 The assignment required designing a backend Python solution that could: 1. Scrape
